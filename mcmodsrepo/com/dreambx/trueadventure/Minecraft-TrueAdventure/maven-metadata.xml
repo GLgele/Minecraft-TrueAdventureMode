@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.yourname.modid</groupId>
+  <groupId>com.dreambx.trueadventure</groupId>
   <artifactId>Minecraft-TrueAdventure</artifactId>
   <versioning>
     <latest>1.0</latest>
@@ -8,6 +8,6 @@
     <versions>
       <version>1.0</version>
     </versions>
-    <lastUpdated>20230719122659</lastUpdated>
+    <lastUpdated>20230719123002</lastUpdated>
   </versioning>
 </metadata>
